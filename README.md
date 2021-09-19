@@ -1,6 +1,6 @@
 # NASA-API
 
-![image.png](attachment:image.png)
+![image.png](transit.jpeg)
 
 Este proyecto tuvo como finalidad el extraer datos usando la [API](https://api.nasa.gov) de la NASA.
 
@@ -71,6 +71,7 @@ Obteniendo un total de tres dataframes (microlensing, plaetary composite systems
 | stellar_radius | Stellar Radius (Solar Radius) |
 | stellar_mass | Stellar Mass |
 | dist_system | Distance, unit = pc |
+| dist_system_ly | Distance, unit = ly |
 
 --- 
 
