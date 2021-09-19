@@ -48,3 +48,26 @@ Obteniendo un total de tres dataframes (microlensing, plaetary composite systems
 | angular_einstein_radius | Angular Einstein Radius, unit = mas. |
 | lens_distance_ly | Lens Distance, unit = light years (ly). |
 | source_distance_ly  | Source Distance, unit = light years (ly). |
+
+## Tabla de Planetary Systems Composite
+
+| Name  | Description |
+| ------------- | ------------- |
+| planet_name | Planet Name |
+| hostname | Stellar name |
+| sys_num_stars | Number of Stars |
+| sys_num_planet | Number of Planets |
+| discovery_method | Discovery Method |
+| discovery_year | Discovery Year |
+| discovery_telescope | Discovery Telescope |
+| orbital_period | Orbital Period, unit=days |
+| orbital_semi_major | Orbit Semi-Major Axis, unit = au |
+| planet_radius_earth | Planet Radius (Earth Radius) |
+| planet_radius_jupiter | Planet Radius (Jupiter Radius) |
+| planet_mass_earth | Planet Mass (Earth Mass) |
+| planet_mass_jupiter | Planet Mass (Jupiter Mass) |
+| eccentricity | Eccentricity |
+| stellar_eff_temp | Stellar Effective Temperature unit=K |
+| stellar_radius | Stellar Radius (Solar Radius) |
+| stellar_mass | Stellar Mass |
+| dist_system | Distance, unit = pc |
