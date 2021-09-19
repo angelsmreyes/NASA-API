@@ -80,7 +80,7 @@ Del análisis de la data se obtuvo que el metodo que predomina para el descubrim
 
 El planeta con el período orbital más largo es [COCONUTS-2 b](https://exoplanets.nasa.gov/exoplanet-catalog/7945/coconuts-2-b/)
 
-El planeta con el período orbital más lento es [PSR J1719-1438 b](https://exoplanets.nasa.gov/exoplanet-catalog/7138/psr-j1719-1438-b/)
+El planeta con el período orbital más corto es [PSR J1719-1438 b](https://exoplanets.nasa.gov/exoplanet-catalog/7138/psr-j1719-1438-b/)
 
 También se obtuvo la frecuencia de descubrimientos por año:
 
