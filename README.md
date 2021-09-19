@@ -4,8 +4,7 @@
 
 Este proyecto tuvo como finalidad el extraer datos usando la [API](https://api.nasa.gov) de la NASA.
 
-De allí se utilizo la base de datos de exoplanetas, de la cual se utilizo la tabla de exoplanetas detectados con la tecnica de microlensing con una 
-dimensión de  y la tabla de Planetary Systems Composite que contiene todos los exoplanetas detectados por diferentes tecnicas.
+De allí se utilizo la base de datos de exoplanetas, de la cual se utilizo la tabla de exoplanetas detectados con la tecnica de microlensing y la tabla de Planetary Systems Composite que contiene todos los exoplanetas detectados por diferentes tecnicas.
 
 De la tabla microlensing se seleccionaron los siguientes atributos: 
 
