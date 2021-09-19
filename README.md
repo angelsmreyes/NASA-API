@@ -71,3 +71,17 @@ Obteniendo un total de tres dataframes (microlensing, plaetary composite systems
 | stellar_radius | Stellar Radius (Solar Radius) |
 | stellar_mass | Stellar Mass |
 | dist_system | Distance, unit = pc |
+
+--- 
+
+Del análisis de la data se obtuvo que el metodo que predomina para el descubrimiento de exoplanetas en está data es el método del tránsito:
+
+![Discovery Method](bar_discovery_method.png)
+
+El planeta con el período orbital más largo es [COCONUTS-2 b](https://exoplanets.nasa.gov/exoplanet-catalog/7945/coconuts-2-b/)
+
+El planeta con el período orbital más lento es [PSR J1719-1438 b](https://exoplanets.nasa.gov/exoplanet-catalog/7138/psr-j1719-1438-b/)
+
+También se obtuvo la frecuencia de descubrimientos por año:
+
+![Discoveries by year](bar_year.png)
