@@ -85,3 +85,11 @@ El planeta con el período orbital más corto es [PSR J1719-1438 b](https://exop
 También se obtuvo la frecuencia de descubrimientos por año:
 
 ![Discoveries by year](bar_year.png)
+
+En el notebook Nasa API visualization están todas las gráficas del proyecto de visualización de datos. En el notebook NASA API se puede ver todo el procedimiento para la extracción y transformación de los datos.
+
+Para este proyecto se hicieron visualizaciones tanto en python utilizando la librería seaborn así como en tableau.
+
+En el siguiente enlace puede observar el libro de visualizaciones de tableau.
+
+https://public.tableau.com/app/profile/mariangel4686/viz/DataViz_16325145176620/Dip10?publish=yes
